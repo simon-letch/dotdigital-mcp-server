@@ -1,0 +1,16 @@
+{
+  "name": "dotdigitalmcpserver",
+  "version": "1.0.0",
+  "type": "module",  
+  "description": "MCP server for Dotdigital's API",
+  "main": "index.js",
+  "author": "Simon Letch <simon.letch@dotdigital.com> (https://dotdigital.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.2",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17"
+  }
+}
